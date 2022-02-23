@@ -83,7 +83,7 @@ header > p{
 
 
 main{
-    min-width: 400px;
+    min-width: 600px;
     max-width: 1000px;
     margin:auto;/* esse auto serve para deixar o conteudo na tela no meio */
     margin-bottom: 30px; 
