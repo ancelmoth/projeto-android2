@@ -23,8 +23,7 @@
 body{
     background-color: var(--cor0);
     font-family:var(--fonte-padrao) ;
-    min-width: 500px;
-    max-width: 1000px;
+   
 }
 
 a.externo::after{
@@ -86,7 +85,7 @@ header > p{
 
 main{
     min-width: 330px;
-    max-width: 1000px;
+    max-width: 300px;
     margin:auto;/* esse auto serve para deixar o conteudo na tela no meio */
     margin-bottom: 30px; 
     padding: 20px;
